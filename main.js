@@ -1,1 +1,2 @@
-alert("error!")
+alert("error!");
+alert("error!");
